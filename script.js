@@ -1,6 +1,6 @@
     async function loadModel() {
       const encoder = await use.load();
-      const model = await textClassification.load('https://storage.googleapis.com/tfjs-models/tfjs/sentiment_cnn_v1/model.json');
+      const model = await tf.loadLayersModel('https://storage.googleapis.com/tfjs-models/tfjs/sentiment_cnn_v1/model.json');
       return { encoder, model };
     }
 
