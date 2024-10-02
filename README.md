@@ -24,7 +24,7 @@ To run the AI-Powered Sentiment Analysis Tool locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jaydxyz/ai-powered-sentiment-analysis.git
+   git clone https://github.com/jayinmt/ai-powered-sentiment-analysis.git
    ```
 
 2. Open the `index.html` file in a web browser.
